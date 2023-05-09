@@ -2,3 +2,7 @@ body{
     background-color: orange;
     color: aliceblue;
 }
+.carousel-inner {
+    
+    height: 70vh;
+}
